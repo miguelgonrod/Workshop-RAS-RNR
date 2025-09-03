@@ -210,9 +210,11 @@ Este proyecto está bajo la licencia BSD 3-Clause. Ver el archivo `LICENSE` para
 
 ## 👨‍💻 Autores
 
-**Miguel González** - [miguelgonrod](https://github.com/miguelgonrod)
+**Miguel González** - [miguelgonrod](https://github.com/miguelgonrod) <br>
 **Iván Orozco** - [Nidhood](https://github.com/Nidhood)
 
 ---
 
 *¡Disfruta aprendiendo robótica con ROS2! 🤖*
+
+<img width="1600" height="151" alt="image" src="https://github.com/user-attachments/assets/9d9610d0-d2bf-40aa-92e8-11745bc57ab1" />
