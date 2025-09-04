@@ -15,11 +15,14 @@ setup(
     zip_safe=True,
     maintainer='miguel',
     maintainer_email='miguelgonrod2004@gmail.com',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    description='Paquete del taller RNR para aprendizaje de ROS2 con TurtleBot3',
+    license='MIT',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-        ],
+            'turtlebot3_publisher_angular = taller_rnr.turtlebot3_simpĺe_publisher_angular:main',
+            'turtlebot3_publisher_linear = taller_rnr.turtlebot3_simpĺe_publisher_linear:main',
+            'turtlebot3_subscriber = taller_rnr.turtlebot3_simple_suscriber:main',
+        ],  
     },
 )
